@@ -5,4 +5,3 @@ while i <=  collection[3] do |i|
   yield
     puts "There it is"
 end
-end
